@@ -1,0 +1,7 @@
+C:\Users\RayanGate\source\repos\Two_Stack_Sort_Array\Two_Stack_Sort_Array\bin\Debug\Two_Stack_Sort_Array.exe.config
+C:\Users\RayanGate\source\repos\Two_Stack_Sort_Array\Two_Stack_Sort_Array\bin\Debug\Two_Stack_Sort_Array.exe
+C:\Users\RayanGate\source\repos\Two_Stack_Sort_Array\Two_Stack_Sort_Array\bin\Debug\Two_Stack_Sort_Array.pdb
+C:\Users\RayanGate\source\repos\Two_Stack_Sort_Array\Two_Stack_Sort_Array\obj\Debug\Two_Stack_Sort_Array.csproj.AssemblyReference.cache
+C:\Users\RayanGate\source\repos\Two_Stack_Sort_Array\Two_Stack_Sort_Array\obj\Debug\Two_Stack_Sort_Array.csproj.CoreCompileInputs.cache
+C:\Users\RayanGate\source\repos\Two_Stack_Sort_Array\Two_Stack_Sort_Array\obj\Debug\Two_Stack_Sort_Array.exe
+C:\Users\RayanGate\source\repos\Two_Stack_Sort_Array\Two_Stack_Sort_Array\obj\Debug\Two_Stack_Sort_Array.pdb
